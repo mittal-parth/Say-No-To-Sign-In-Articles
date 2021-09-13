@@ -1,9 +1,3 @@
-# Install the required dependencies by running the following commands on cmd
-# pip install docx
-# pip install regex
-# pip install requests
-# pip install beautifulsoup4 (OR) pip install bs4
-
 # Dependencies
 import docx
 import re
