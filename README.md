@@ -18,3 +18,9 @@ Python script to scrape articles. Works even on articles that requrie a user to 
 <li>Navigate to the file path enetered before to find your file!</li>
 <li> Star the repo :)</li>
 </ul>
+
+<h3>Known Bugs</h3>
+<ul>
+    <li>Doesnt work on Medium Articles</li>
+    <li>Output doc is unformatted and without images</li>
+</ul>
